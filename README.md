@@ -1,6 +1,6 @@
 # CS585-Lab3
 Solution for BU CS585 Lab3. <br>
-Teammate work with Liang and Ning.
+Worked in team with L.Liang and J.Ning.
 
 ## **Requirements**
 
