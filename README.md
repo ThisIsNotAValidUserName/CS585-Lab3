@@ -1,6 +1,6 @@
 # CS585-Lab3
 Solution for BU CS585 Lab3. <br>
-Worked with Liang L.H. and Ning J.H.
+Collective work with Liang L.H. and Ning J.H.
 
 ## **Requirements**
 
