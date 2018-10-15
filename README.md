@@ -1,5 +1,5 @@
 # CS585-Lab3
-Solution for BU CS585 Lab3. <br>
+Solution for BU CS585 Lab3 2018 Fall <br>
 Collective work with Liang L.H. and Ning J.H.
 
 ## **Requirements**
